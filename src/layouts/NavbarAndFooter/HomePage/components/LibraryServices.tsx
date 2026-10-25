@@ -13,9 +13,11 @@ export const LibraryServices=()=>{
                     personnel à nos administrateurs de la bibliothèque !
                      </p>
                      <div className='d-grid gap-2 justify-content-md-start mb-4 mb-lg-3'>
-                            <a className='btn main-color btn-lg text-white' href="#">
+                              {/* Bouton Se connecter supprimé   <a className='btn main-color btn-lg text-white' href="#">
                                Se connecter    
-                            </a>
+                            </a> */}
+                           
+                           
                      </div>
                 </div>
 

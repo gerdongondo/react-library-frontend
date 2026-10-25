@@ -17,7 +17,8 @@ export const Heros =()=>{
                         compétence ou pour progresser dans un domaine, nous serons en mesure de vous fournir les meilleurs 
                         contenus !
                          </p>
-                         <a className='btn main-color btn-lg text-white' href="#">Se connecter</a>
+                             {/* Bouton Se connecter supprimé <a className='btn main-color btn-lg text-white' href="#">Se connecter</a> */}
+                         
               </div>
            </div>
         </div>
@@ -53,7 +54,9 @@ export const Heros =()=>{
                         Que ce soit pour apprendre une nouvelle compétence ou progresser dans un domaine, 
                         nous serons en mesure de vous fournir les meilleurs contenus !
                          </p>
-                         <a className='btn main-color btn-lg text-white' href="#">Se connecter</a>   
+
+                            {/* Bouton Se connecter supprimé   <a className='btn main-color btn-lg text-white' href="#">Se connecter</a>   */}
+                        
                 </div>
               </div> 
              <div className='m-2'>
